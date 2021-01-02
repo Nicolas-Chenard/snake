@@ -1,4 +1,5 @@
 // CLASSIC SNAKE - 2019 code by Nicolas CHENARD
+// this is my first javascript game, all graphics are made with canvas !
 
 clear=function(){ctx.clearRect(0,0,can.width, can.height);}
 var can=document.getElementById("can");
